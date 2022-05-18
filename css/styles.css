@@ -1,0 +1,20 @@
+body {
+  background-color: #F4FCD9;
+}
+
+hr{
+  border: 0;
+  border-top: dotted #CEE5D0;
+  border-top-width: 6px;
+  width: 7%;
+}
+
+h1{
+  color: #66BFBF;
+  font: italic small-caps bold 40px/2 cursive;
+}
+
+h3{
+  color: #66BFBF;
+  font: italic 1.2em "Fira Sans", serif;
+}
